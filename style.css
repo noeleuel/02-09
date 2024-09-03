@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(237, 205, 162);
+    /* mudar cor de fundo da pagina*/
+    color: rgb(0, 0, 0);
+    /* mudar cor da letra*/
+}
+
+h1 {
+    color: rgb(199, 89, 10); /* tudo que tirar a etiqueta 
+    'tag' h1 vai ter como cor*/
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+/* troca a fonte para a que eu escolhi, 
+se eu esolher (h1) vai mudar apenas a h1 */
+
+}
+
+button {
+    color: rgb(0, 0, 0);
+    /* muda a cor da letra*/
+    background-color: rgb(220, 130, 56);
+    /* muda a cor do botão*/
+
+}
+
+img {
+width: 300px; ;
+/*inglês significa largura*/
+height:auto ;
+/*inglês significa altura*/
+
+}
+
